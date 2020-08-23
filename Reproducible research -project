@@ -92,7 +92,9 @@ head(testdataifelse)
 forgedData <- cbind(testdataifelse,rawData)
 colnames(forgedData)[1] <- c("newvalues")
 head(forgedData)
+summary(forgedData)
 ```
+We see the new Data provides the same mean! Which makes sense, we are imputing the default mean values and by doing that the average is calculated by dividing the n(of NA's), which gives the same value
 IFELSE - if in the original data values is NA it will put the values from the added column from meaninterval. 
 
 
@@ -151,3 +153,6 @@ summary(dataworkdaysMean)
 ```
 
 We see there is a slightly higher value of number of steps on weekends.
+I have used various methods in this course, some weren't according to the course instructions but I believe the Data is well explained by graphs and by the code used.
+
+
