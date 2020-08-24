@@ -161,4 +161,4 @@ We see there is a slightly higher value of number of steps on weekends.
 I have used various methods in this course, some weren't according to the course instructions but I believe the Data is well explained by graphs and by the code used.
 
 
-test for github again bla bla
+new testing! bla bla
