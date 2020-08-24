@@ -19,16 +19,20 @@ list.files()
 ```
 
 ```
-##  [1] "activity.csv"              "disposition - new.R"      
-##  [3] "disposition.R"             "hehetest.Rmd"             
-##  [5] "PA1_template.html"         "PA1_template.md"          
-##  [7] "PA1_template.R"            "PA1_template.Rmd"         
-##  [9] "PA1_template_files"        "repdata_data_activity.zip"
-## [11] "test1.R"                   "test3.r"                  
-## [13] "testing function.R"        "testmarkdown.html"        
-## [15] "testmarkdown.Rmd"          "testmarkdown_files"       
-## [17] "testmarkdown2.html"        "testmarkdown2.Rmd"        
-## [19] "testmarkdown2_files"
+##  [1] "activity.csv"                "CopyOfPA1_template.html"    
+##  [3] "CopyOfPA1_template.md"       "disposition - new.R"        
+##  [5] "disposition.R"               "git.R"                      
+##  [7] "hehetest.Rmd"                "Newtemplate.html"           
+##  [9] "Newtemplate.md"              "Newtemplate.Rmd"            
+## [11] "PA1_template"                "PA1_template.html"          
+## [13] "PA1_template_files"          "R_template_new"             
+## [15] "repdata_data_activity.zip"   "RepData_PeerAssessment1"    
+## [17] "RepData_PeerAssessment2"     "Reproducible research.Rproj"
+## [19] "Research"                    "test1.R"                    
+## [21] "test3.r"                     "testing function.R"         
+## [23] "testmarkdown.html"           "testmarkdown.Rmd"           
+## [25] "testmarkdown_files"          "testmarkdown2.html"         
+## [27] "testmarkdown2_files"
 ```
 
 ```r
@@ -381,3 +385,4 @@ We see there is a slightly higher value of number of steps on weekends.
 I have used various methods in this course, some weren't according to the course instructions but I believe the Data is well explained by graphs and by the code used.
 
 
+test for github again bla bla
